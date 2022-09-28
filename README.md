@@ -1,7 +1,7 @@
 # TPDM
 A prediction model for umami and bitterness
 
-
+![image-20220928233055436](README/image-20220928233055436.png)
 
 **TastePeptides-DM** is the abbreviation of `TastePeptides Docking Machine learning`. It is a part of the [TastePeptides-Meta](http://tastepeptides-meta.com/) meta-universe. It is the docking-based part of the TastePeptides research framework. It is expected that through the docking of large quantities of TastePeptides:
 
